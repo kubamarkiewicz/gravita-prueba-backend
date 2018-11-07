@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: ID
+        type: number
+        searchable: true
+        sortable: true
+        width: 80px
+    name:
+        label: Nombre
+        type: text
+        searchable: true
+        sortable: true
+    stock:
+        label: Stock
+        type: number
+        sortable: true

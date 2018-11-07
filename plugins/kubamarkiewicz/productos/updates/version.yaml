@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table kubamarkiewicz_productos_products'
+    - builder_table_create_kubamarkiewicz_productos_products.php
+1.0.3:
+    - 'Updated table kubamarkiewicz_productos_products'
+    - builder_table_update_kubamarkiewicz_productos_products.php
+1.0.4:
+    - 'Updated table kubamarkiewicz_productos_products'
+    - builder_table_update_kubamarkiewicz_productos_products_2.php
+1.0.5:
+    - 'Updated table kubamarkiewicz_productos_products'
+    - builder_table_update_kubamarkiewicz_productos_products_3.php

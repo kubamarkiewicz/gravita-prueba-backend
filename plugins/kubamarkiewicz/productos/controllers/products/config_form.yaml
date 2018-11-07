@@ -1,0 +1,10 @@
+name: Products
+form: $/kubamarkiewicz/productos/models/product/fields.yaml
+modelClass: KubaMarkiewicz\Productos\Models\Product
+defaultRedirect: kubamarkiewicz/productos/products
+create:
+    redirect: 'kubamarkiewicz/productos/products/update/:id'
+    redirectClose: kubamarkiewicz/productos/products
+update:
+    redirect: kubamarkiewicz/productos/products
+    redirectClose: kubamarkiewicz/productos/products

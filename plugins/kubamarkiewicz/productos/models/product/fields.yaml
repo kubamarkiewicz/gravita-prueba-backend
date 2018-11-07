@@ -1,0 +1,22 @@
+fields:
+    id:
+        label: ID
+        span: auto
+        disabled: 1
+        context:
+            - update
+            - preview
+        type: number
+    name:
+        label: Nombre
+        span: left
+        type: text
+    description:
+        label: Descripción
+        size: small
+        span: left
+        type: textarea
+    stock:
+        label: Stock
+        span: left
+        type: number

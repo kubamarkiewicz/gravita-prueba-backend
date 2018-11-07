@@ -1,0 +1,12 @@
+plugin:
+    name: 'kubamarkiewicz.productos::lang.plugin.name'
+    description: 'kubamarkiewicz.productos::lang.plugin.description'
+    author: 'Kuba Markiewicz'
+    icon: oc-icon-files-o
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Productos
+        url: kubamarkiewicz/productos/products
+        icon: icon-files-o
+        order: '0'
